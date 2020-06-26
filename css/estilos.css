@@ -1,0 +1,48 @@
+body{
+  font-size: 20px;
+}
+.main-header{
+  background-color: #5DB8F7;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.article-header{
+  text-align: center;
+}
+.nav-link{
+  color: white;
+  margin-right: -4px;
+  width: 25%;
+  display: inline-block;
+  text-decoration: none;
+}
+.title{
+  color: #0766A8;
+  margin-top: 0;
+}
+.pacifico{
+  font-family: 'Playball', cursive;
+}
+.cuartos img{
+  width: 400px;
+  height: 200px;
+  margin-top: 20px;
+}
+.cuartos h3{
+  font-size: 1.5em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.card{
+  border-radius: 15px;
+  background-color: inherit;
+  box-shadow: 3px 3px 5px #061926;
+}
+.tresD{
+  text-shadow: 1px 3px 0px #0E2E63, 1px 13px 5px #0B121D;
+}
+.contact iframe{
+  border-radius: 10px;
+}
